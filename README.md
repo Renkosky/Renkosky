@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Renkosky's github stats](https://github-readme-stats.vercel.app/api?username=Renkosky?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Renkosky's github stats](https://github-readme-stats.vercel.app/api?username=Renkosky&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
